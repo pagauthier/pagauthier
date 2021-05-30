@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pagauthier
+- 👀 I’m interested in arts, sciences and technologies, sound, art teaching.
+- 🌱 I’m currently learning python for Blender, hard surface modelling, etc.
+- 💞️ I’m looking to collaborate on digital materialism!
+- 📫 How to reach me? https://professeurs.uqam.ca/professeur/gauthier.philippe-aubert/
